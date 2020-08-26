@@ -4,7 +4,7 @@ SMS-BOMBER (Russian)
 INSTRUCTION
 
 # 1 - download
-git clone https://github.com/halwarsing/sms-hal-bomber
+git clone https://github.com/halwarsing/sms-hal-bomber.git && cd sms-hal-bomber
 
 # 2 - run python script main.py
 python3 main.py
